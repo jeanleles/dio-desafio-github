@@ -1,2 +1,2 @@
 # dio-desafio-github
-Desafio de Projeto sobre Git/Github do Bootcamp Spread Fullstack Developer | DIO.
+Desafios de Projetos do Bootcamp Spread Fullstack Developer | DIO.
